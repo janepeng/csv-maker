@@ -1,0 +1,11 @@
+NewQuestion,MC,
+Title,Title,
+QuestionText,"
+Question - you may have several lines of question, separate using
+.
+",
+Option,0,"Answer 1.",,"Incorrect answer. Explanation."
+Option,0,"Answer 2.",,"Incorrect answer. Explanation."
+Option,0,"Answer 3.",,"Incorrect answer. Explanation."
+Option,100,"Answer 4.",,"Correct. Explanation."
+Feedback,"Feedback.",,,,
